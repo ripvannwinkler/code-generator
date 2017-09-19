@@ -1,0 +1,8 @@
+{
+  "name": "code_gen",
+  "version": "1.0.0",
+  "bin": "./codes.js",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
